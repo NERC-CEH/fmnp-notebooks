@@ -11,3 +11,4 @@ dependencies:
   - ipywidgets
   - ipykernel
   - voila
+  - jupyter_server
