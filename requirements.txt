@@ -1,6 +1,4 @@
-numpy
-scipy
-pandas
+git+https://github.com/microplastics-cluster/fragment-mnp@d7a4baf19b145b593f538c9dad590746fb2d57b6
 plotly
 matplotlib
 ipywidgets

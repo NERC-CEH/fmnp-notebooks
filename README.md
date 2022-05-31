@@ -4,4 +4,4 @@
 
 This repository contains demo notebooks for the [FRAGMENT-MNP model](https://github.com/nerc-ceh/fragment-mnp/).
 
-Check out the [simple fragmentation model demo](https://afternoon-stream-46857.herokuapp.com/) on Heroku.
+Check out the [fragmentation model demo app](https://fragmentmnp.samharrison.science).
